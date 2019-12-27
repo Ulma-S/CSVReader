@@ -7,6 +7,7 @@
         その後CSVReader Prefabをシーンに配置し、Inspector上でcsvファイル名を指定してください。
 
 	//▼その他
+        参考：https://note.com/macgyverthink/n/n83943f3bad60
 		使用は完全フリーです。
 		何かあれば@s_kuma_ritsか直接くままで。
 */
